@@ -1,0 +1,11 @@
+{
+  "firstname": "Itadori",
+  "lastname": "Yuji",
+  "totalprice": 111,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2024-06-01",
+    "checkout": "2024-06-15"
+  },
+  "additionalneeds": "Breakfast"
+}
